@@ -1,0 +1,138 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Book rdf:about="urn:isbn:978-0-310-24402-8">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Zondervan Exegetical Commentary on the New Testament</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Zondervan</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blomberg</foaf:surname>
+                        <foaf:givenName>Craig L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kamell</foaf:surname>
+                        <foaf:givenName>Mariam J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:seriesEditors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arnold</foaf:surname>
+                        <foaf:givenName>Clinton E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:seriesEditors>
+        <link:link rdf:resource="#item_26584"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>_Logos</dc:subject>
+        <prism:volume>16</prism:volume>
+        <dc:identifier>ISBN 978-0-310-24402-8</dc:identifier>
+        <dc:date>2008</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BS2785.53 .B56 2008</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>collection-title-short:ZECNT</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:title>James</dc:title>
+        <z:shortTitle>James</z:shortTitle>
+        <z:numPages>280</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26584">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>logosres:LLS:EXEGCOMMJAM</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-08 06:24:37</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:EXEGCOMMJAM</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-310-24367-0">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Zondervan Exegetical Commentary on the New Testament</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Zondervan</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schnabel</foaf:surname>
+                        <foaf:givenName>Eckhard J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26583"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>_Logos</dc:subject>
+        <prism:edition>Expanded Digital Edition</prism:edition>
+        <dc:identifier>ISBN 978-0-310-24367-0</dc:identifier>
+        <dc:date>2012</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BS2625.53 .S35 2012</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>collection-title-short:ZECNT</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Acts</dc:title>
+        <z:shortTitle>Acts</z:shortTitle>
+        <z:numPages>1162</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26583">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>logosres:LLS:EXEGCOMMACTS</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-08 06:24:12</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:EXEGCOMMACTS</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+</rdf:RDF>
