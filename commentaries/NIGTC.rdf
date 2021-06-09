@@ -1,0 +1,740 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Book rdf:about="urn:isbn:978-0-8028-2174-4">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>New International Greek Testament Commentary</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beale</foaf:surname>
+                        <foaf:givenName>G. K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26640"/>
+        <dc:subject>_Logos</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bible</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-8028-2174-4</dc:identifier>
+        <dc:date>1999</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BS2825.3 .B242 1999</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>collection-title-short:NIGTC</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The book of Revelation: a commentary on the Greek text</dc:title>
+        <z:shortTitle>The book of Revelation</z:shortTitle>
+        <z:numPages>1245</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26640">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>logosres:LLS:29.71.18</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-09 05:56:33</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:29.71.18</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-8028-2388-5">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>New International Greek Testament Commentary</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davids</foaf:surname>
+                        <foaf:givenName>Peter H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26639"/>
+        <dc:subject>_Logos</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bible</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-8028-2388-5</dc:identifier>
+        <dc:date>1982</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BS2785.3 .D38 1982</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>collection-title-short:NIGTC</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Epistle of James: a commentary on the Greek text</dc:title>
+        <z:shortTitle>The Epistle of James</z:shortTitle>
+        <z:numPages>226</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26639">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>logosres:LLS:29.64.18</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-09 05:56:21</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:29.64.18</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-85364-299-2%20978-0-85364-300-5%20978-0-8028-2387-8">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>New International Greek Testament Commentary</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bruce</foaf:surname>
+                        <foaf:givenName>F. F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26638"/>
+        <dc:subject>_Logos</dc:subject>
+        <dc:subject>Commentaries</dc:subject>
+        <dc:identifier>ISBN 978-0-85364-299-2 978-0-85364-300-5 978-0-8028-2387-8</dc:identifier>
+        <dc:date>1982</dc:date>
+        <dc:description>collection-title-short:NIGTC</dc:description>
+        <z:libraryCatalog>Gemeinsamer Bibliotheksverbund ISBN</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Epistle to the Galatians: a commentary on the Greek text</dc:title>
+        <z:shortTitle>The Epistle to the Galatians</z:shortTitle>
+        <z:numPages>305</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26638">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>logosres:LLS:29.53.21</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-09 05:56:11</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:29.53.21</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-8028-2420-2%20978-0-85364-534-4">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>New International Greek Testament Commentary</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ellingworth</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26637"/>
+        <dc:subject>_Logos</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bible</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-8028-2420-2 978-0-85364-534-4</dc:identifier>
+        <dc:date>1993</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BS2775.3 .E455 1993</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>collection-title-short:NIGTC</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Epistle to the Hebrews: a commentary on the Greek text</dc:title>
+        <z:shortTitle>The Epistle to the Hebrews</z:shortTitle>
+        <z:numPages>764</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26637">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>logosres:LLS:29.63.17</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-09 05:56:00</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:29.63.17</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-8028-2448-6">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>New International Greek Testament Commentary</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Longenecker</foaf:surname>
+                        <foaf:givenName>Richard N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marshall</foaf:surname>
+                        <foaf:givenName>I. Howard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hagner</foaf:surname>
+                        <foaf:givenName>Donald A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_26636"/>
+        <dc:subject>_Logos</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bible</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-8028-2448-6</dc:identifier>
+        <dc:date>2016</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BS2665.53 .L66 2016</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>collection-title-short:NIGTC</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Epistle to the Romans: A Commentary on the Greek Text</dc:title>
+        <z:shortTitle>The Epistle to the Romans</z:shortTitle>
+        <z:numPages>1140</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26636">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>logosres:LLS:NIGTCRO</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-09 05:55:48</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:NIGTCRO</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-8028-2441-7">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>New International Greek Testament Commentary</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dunn</foaf:surname>
+                        <foaf:givenName>James D. G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26630"/>
+        <dc:subject>_Logos</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bible</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-8028-2441-7</dc:identifier>
+        <dc:date>1996</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BS2715.3 .D86 1996</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>collection-title-short:NIGTC</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Epistles to the Colossians and to Philemon: a commentary on the Greek text</dc:title>
+        <z:shortTitle>The Epistles to the Colossians and to Philemon</z:shortTitle>
+        <z:numPages>388</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26630">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>logosres:LLS:29.56.12</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-09 05:54:32</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:29.56.12</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-8028-2394-6">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>New International Greek Testament Commentary</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wanamaker</foaf:surname>
+                        <foaf:givenName>Charles A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26629"/>
+        <dc:subject>_Logos</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bible</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-8028-2394-6</dc:identifier>
+        <dc:date>1990</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BS2725.3 .W35 1990</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>collection-title-short:NIGTC</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Epistles to the Thessalonians: a commentary on the Greek text</dc:title>
+        <z:shortTitle>The Epistles to the Thessalonians</z:shortTitle>
+        <z:numPages>316</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26629">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>logosres:LLS:29.57.16</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-09 05:54:17</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:29.57.16</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-8028-2449-3%20978-0-85364-559-7">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>New International Greek Testament Commentary</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thiselton</foaf:surname>
+                        <foaf:givenName>Anthony C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26635"/>
+        <dc:subject>_Logos</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bible</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-8028-2449-3 978-0-85364-559-7</dc:identifier>
+        <dc:date>2000</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BS2675.53 .T45 2000</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>collection-title-short:NIGTC</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The First Epistle to the Corinthians: a commentary on the Greek text</dc:title>
+        <z:shortTitle>The First Epistle to the Corinthians</z:shortTitle>
+        <z:numPages>1446</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26635">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>logosres:LLS:29.51.13</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-09 05:55:36</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:29.51.13</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-8028-3512-3">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>New International Greek Testament Commentary</dc:title>
+                <dc:identifier>3</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marshall</foaf:surname>
+                        <foaf:givenName>I. Howard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26634"/>
+        <dc:subject>_Logos</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bible</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <prism:edition>1</prism:edition>
+        <dc:identifier>ISBN 978-0-8028-3512-3</dc:identifier>
+        <dc:date>1978</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BS2595.3 .M37 1978</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>collection-title-short:NIGTC</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Gospel of Luke: a commentary on the Greek text</dc:title>
+        <z:shortTitle>The Gospel of Luke</z:shortTitle>
+        <z:numPages>928</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26634">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>logosres:LLS:29.47.20</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-09 05:55:23</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:29.47.20</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-8028-2446-2">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>New International Greek Testament Commentary</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>France</foaf:surname>
+                        <foaf:givenName>R. T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26633"/>
+        <dc:subject>_Logos</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bible</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-8028-2446-2</dc:identifier>
+        <dc:date>2002</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BS2585.53 .F73 2002</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>collection-title-short:NIGTC</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Gospel of Mark: a commentary on the Greek text</dc:title>
+        <z:shortTitle>The Gospel of Mark</z:shortTitle>
+        <z:numPages>719</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26633">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>logosres:LLS:29.46.20</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-09 05:55:14</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:29.46.20</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-8028-2389-2%20978-0-85364-575-7">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>New International Greek Testament Commentary</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nolland</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26632"/>
+        <dc:subject>_Logos</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bible</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-8028-2389-2 978-0-85364-575-7</dc:identifier>
+        <dc:date>2005</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BS2575.53 .N65 2005</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>collection-title-short:NIGTC</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Gospel of Matthew: a commentary on the Greek text</dc:title>
+        <z:shortTitle>The Gospel of Matthew</z:shortTitle>
+        <z:numPages>1481</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26632">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>logosres:LLS:NIGTCMT</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-09 05:54:57</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:NIGTCMT</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-8028-2395-3">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>New International Greek Testament Commentary</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Knight</foaf:surname>
+                        <foaf:givenName>George W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26628"/>
+        <dc:subject>_Logos</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bible</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-8028-2395-3</dc:identifier>
+        <dc:date>1992</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BS2735.3 .K55 1992</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>collection-title-short:NIGTC</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Pastoral Epistles: a commentary on the Greek text</dc:title>
+        <z:shortTitle>The Pastoral Epistles</z:shortTitle>
+        <z:numPages>514</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26628">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>logosres:LLS:29.1.40</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-09 05:53:46</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:29.1.40</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-85364-580-1">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>New International Greek Testament Commentary</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harris</foaf:surname>
+                        <foaf:givenName>Murray J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26631"/>
+        <dc:subject>_Logos</dc:subject>
+        <dc:subject>Commentaries</dc:subject>
+        <dc:identifier>ISBN 978-0-85364-580-1</dc:identifier>
+        <dc:date>2005</dc:date>
+        <dc:description>collection-title-short:NIGTC</dc:description>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Second Epistle to the Corinthians: a commentary on the Greek text</dc:title>
+        <z:numPages>962</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_26631">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>logosres:LLS:29.52.12</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-09 05:54:44</dcterms:dateSubmitted>
+        <dc:title>logosres:LLS:29.52.12</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+</rdf:RDF>
